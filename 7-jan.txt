@@ -1,0 +1,37 @@
+create one integer array with 10 elements. Do the following operations in a seperate function using pointers:
+	1. accept Array Elements
+	2. print Array Elements
+	3. Sort Array Elements
+
+
+String:
+========
+1. Accept one String from the user. print all char with number of occurence.
+	ex: kamal singh
+	k - 1
+	a - 2
+ 	m - 1
+	l - 1
+	s - 1
+	i - 1
+
+2. Check the String is anagram or not.
+
+3. Check the String is panagram or not.
+
+4. Enter a String and character, print the first occurence of the given charater index.
+
+5. Enter a String and character, print the last occurence of the given charater index.
+
+
+6. Find n-th maximum number in the given array.
+
+
+
+
+
+
+
+
+
+
